@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Deplying First CI/CD Pipeline.......User's feedback incorporated!! Second Update!!</h2>
+<h2>Deploying Java Web App Using Jenkins Slave....</h2>
 </body>
 </html>
