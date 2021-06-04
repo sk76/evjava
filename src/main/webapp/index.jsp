@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Deploying Java Web Application in Docker Container!!!Modified Content...</h2>
+<h2>Fresh Docker Test</h2>
 </body>
 </html>
