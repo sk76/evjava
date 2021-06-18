@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Java Web App Deploymet in Container With Docker and Ansible!!!! Content Modified!</h2>
+<h2>Deploying Java Web App on Kubernetes Cluster...........</h2>
 </body>
 </html>
