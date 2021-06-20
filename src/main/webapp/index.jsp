@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Deploying Java Web App on Kubernetes Cluster..........Final CI/CD Pipeline</h2>
+<h2>Deploying New Version of Java Web App ....Rollout Performed</h2>
 </body>
 </html>
